@@ -1,0 +1,10 @@
+body{
+    background-image: url(image/stars.jpg);
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+.intro {
+    color: blue;
+    font-size: 40px;
+}
