@@ -23,12 +23,12 @@ body{
         position: relative;
         top: -100px;
         transform-origin: 50% 100%;
-        animation: crawl 60s linear;
+        animation: crawl 120s linear;
         text-align: center;
 }
 @keyframes crawl {
     0% {
-    top: -100px;
+    top: 500px;
     transform: rotateX(20deg)  translateZ(0);
     }
     100% { 
